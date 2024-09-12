@@ -11,3 +11,7 @@
 - Victor Díaz
    - Correo electrónico: victor.diaz.jauregui@mi.unc.edu.ar
    - Usuario: aledjv22
+
+- Ignacio Gonzalia
+   - Correo electrónico: ignacio.gonzalia@mi.unc.edu.ar
+   - Usuario: nachogonzaliaunc
