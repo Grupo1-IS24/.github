@@ -1,9 +1,13 @@
 **Integrantes:**
 
-1. Heber Alturria.
+- Heber Alturria.
    - Correo electrónico: heber.alturria@mi.unc.edu.ar
    - Usuario: HeberDamianAlturria
 
-2. Gabriel Guimpelevich
+- Gabriel Guimpelevich
    - Correo electrónico: gabriel.solis.guimpelevich@mi.unc.edu.ar
    - Usuario: cafra2
+
+- Victor Díaz
+   - Correo electrónico: victor.diaz.jauregui@mi.unc.edu.ar
+   - Usuario: aledjv22
