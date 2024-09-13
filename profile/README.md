@@ -19,3 +19,8 @@
 - Agustín Farace
    - Correo electrónico: agustin.farace@mi.unc.edu.ar
    - Usuario: afarace
+
+- Santino Cirico
+   - Correo electronico: santino.cirico@mi.unc.edu.ar
+   - Usuario:  Saitim221
+     
