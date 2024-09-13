@@ -15,3 +15,7 @@
 - Ignacio Gonzalia
    - Correo electrónico: ignacio.gonzalia@mi.unc.edu.ar
    - Usuario: nachogonzaliaunc
+ 
+- Agustín Farace
+   - Correo electrónico: agustin.farace@mi.unc.edu.ar
+   - Usuario: afarace
