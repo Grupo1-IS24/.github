@@ -23,4 +23,7 @@
 - Santino Cirico
    - Correo electronico: santino.cirico@mi.unc.edu.ar
    - Usuario:  Saitim221
-     
+ 
+- Facundo Alvarez Miranda
+   - Correo electrónico: facualvarez@mi.unc.edu.ar
+   - Usuario: FDirekt
