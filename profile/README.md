@@ -9,8 +9,8 @@
    - Usuario: cafra2
 
 - Victor Díaz
-   - Correo electrónico: victor.diaz.jauregui@mi.unc.edu.ar
-   - Usuario: aledjv22
+   - Correo electrónico: victor.diaz.jauregui@gmail.com
+   - Usuario: VictorDiazJauregui
 
 - Ignacio Gonzalia
    - Correo electrónico: ignacio.gonzalia@mi.unc.edu.ar
